@@ -1,20 +1,20 @@
 [
   {
-    "name": "Main",
+    "name": "Main - jeremi.fr.to",
     "url": "https://jeremi.fr.to",
     "icon": "https://favicons.githubusercontent.com/jeremi.fr.to",
-    "slug": "main",
+    "slug": "main-jeremi-fr-to",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 515,
-    "timeWeek": 515,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {}
   }
 ]
