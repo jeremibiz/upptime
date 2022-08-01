@@ -4,7 +4,7 @@
     "url": "https://jeremi.fr.to",
     "icon": "https://favicons.githubusercontent.com/jeremi.fr.to",
     "slug": "main-jeremi-fr-to",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 523,
     "timeMonth": 523,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-01": 0
+    }
   }
 ]
