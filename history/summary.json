@@ -4,7 +4,7 @@
     "url": "https://jeremi.fr.to",
     "icon": "https://icons.duckduckgo.com/ip3/jeremi.fr.to.ico",
     "slug": "main-jeremi-fr-to",
-    "status": "up",
+    "status": "down",
     "uptime": "92.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.60%",
@@ -16,6 +16,7 @@
     "timeMonth": 683,
     "timeYear": 740,
     "dailyMinutesDown": {
+      "2022-12-19": 0,
       "2022-12-15": 141,
       "2022-11-15": 47,
       "2022-11-14": 175,
@@ -42,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/morphy.fr.to.ico",
     "slug": "accueil-morphy-fr-to",
     "status": "down",
-    "uptime": "10.82%",
-    "uptimeDay": "10.82%",
-    "uptimeWeek": "10.82%",
-    "uptimeMonth": "10.82%",
-    "uptimeYear": "10.82%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 448,
     "timeDay": 448,
     "timeWeek": 448,
     "timeMonth": 448,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2022-12-19": 0
+      "2022-12-19": 18
     }
   },
   {
@@ -62,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/morphy.fr.to.ico",
     "slug": "flarum-morphy-fr-to",
     "status": "down",
-    "uptime": "8.53%",
-    "uptimeDay": "8.53%",
-    "uptimeWeek": "8.53%",
-    "uptimeMonth": "8.53%",
-    "uptimeYear": "8.53%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 119,
     "timeDay": 119,
     "timeWeek": 119,
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2022-12-19": 0
+      "2022-12-19": 18
     }
   }
 ]
