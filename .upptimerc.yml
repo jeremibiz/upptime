@@ -4,10 +4,10 @@ repo: upptime
 sites:
   - name: Main - jeremi.fr.to
     url: https://jeremi.fr.to
-  - name: Accueil - morphy.fr.to
-    url: https://morphy.fr.to/accueil
-  - name: Flarum - morphy.fr.to
+  - name: Index - morphy.fr.to
     url: https://morphy.fr.to
+  - name: Project - project-morphy.fr.to
+    url: https://project-morphy.fr.to
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +20,7 @@ status-website:
   introMessage: upptime pages 
   navbar:
     - title: Index
-      href: https://morphy.fr.to/accueil
+      href: https://morphy.fr.to
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
