@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jeremi.fr.to.ico",
     "slug": "main-jeremi-fr-to",
     "status": "up",
-    "uptime": "92.37%",
+    "uptime": "92.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "92.37%",
-    "time": 738,
-    "timeDay": 748,
-    "timeWeek": 771,
-    "timeMonth": 669,
-    "timeYear": 738,
+    "uptimeYear": "92.40%",
+    "time": 742,
+    "timeDay": 1065,
+    "timeWeek": 822,
+    "timeMonth": 689,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2022-12-15": 141,
       "2022-11-15": 47,
@@ -34,6 +34,26 @@
       "2022-08-10": 204,
       "2022-08-09": 495,
       "2022-08-01": 420
+    }
+  },
+  {
+    "name": "Morphy - morphy.fr.to",
+    "url": "https://morphy.fr.to",
+    "icon": "https://icons.duckduckgo.com/ip3/morphy.fr.to.ico",
+    "slug": "morphy-morphy-fr-to",
+    "status": "down",
+    "uptime": "8.46%",
+    "uptimeDay": "8.46%",
+    "uptimeWeek": "8.46%",
+    "uptimeMonth": "8.46%",
+    "uptimeYear": "8.46%",
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
+    "dailyMinutesDown": {
+      "2022-12-19": 0
     }
   }
 ]
