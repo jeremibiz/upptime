@@ -22,7 +22,7 @@ status-website:
     - title: Index
       href: https://morphy.fr.to
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER?tab=repositories
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
