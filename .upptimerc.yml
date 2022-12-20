@@ -16,7 +16,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "jeremi.fr.to"
+  introTitle: "MORPHY"
   introMessage: upptime pages 
   navbar:
     - title: Index
