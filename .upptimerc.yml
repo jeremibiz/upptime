@@ -4,9 +4,11 @@ repo: upptime
 sites:
   - name: Main - jeremi.fr.to
     url: https://jeremi.fr.to
-  - name: Index - morphy.fr.to
+  - name: Website - morphy.fr.to
     url: https://morphy.fr.to
-  - name: Project - project-morphy.fr.to
+  - name: API - api-morphy.fr.to
+    url: https://api-morphy.fr.to/status
+  - name: Flarum - project-morphy.fr.to
     url: https://project-morphy.fr.to
 
 status-website:
@@ -19,8 +21,10 @@ status-website:
   introTitle: "MORPHY"
   introMessage: upptime pages 
   navbar:
-    - title: Index
+    - title: Accueil
       href: https://morphy.fr.to
+    - title: Communauté
+      href: https://project-morphy.fr.to
     - title: GitHub
       href: https://github.com/$OWNER?tab=repositories
 
