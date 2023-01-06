@@ -14,10 +14,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/jeremibiz/morphy-website/main/images/morphy-black.png
+  name: Status
   introTitle: "MORPHY"
-  introMessage: upptime pages 
+  introMessage: Pages de Status du projet MORPHY
   navbar:
     - title: Accueil
       href: https://morphy.fr.to
