@@ -2,8 +2,6 @@ owner: jeremibiz
 repo: upptime
 
 sites:
-  - name: Main - jeremi.fr.to
-    url: https://jeremi.fr.to
   - name: Website - morphy.fr.to
     url: https://morphy.fr.to
   - name: API - api-morphy.fr.to
