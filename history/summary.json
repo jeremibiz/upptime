@@ -4,19 +4,19 @@
     "url": "https://morphy.fr.to",
     "icon": "https://icons.duckduckgo.com/ip3/morphy.fr.to.ico",
     "slug": "website-morphy-fr-to",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 451,
-    "timeWeek": 627,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1500,
+    "timeDay": 10154,
+    "timeWeek": 3031,
+    "timeMonth": 1500,
+    "timeYear": 1500,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 7
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 598,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-01-25": 450,
+      "2023-01-25": 457,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
