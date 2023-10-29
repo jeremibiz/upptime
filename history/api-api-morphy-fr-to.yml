@@ -1,7 +1,7 @@
 url: https://api-morphy.fr.to/status
 status: down
-code: 404
-responseTime: 473
-lastUpdated: 2023-10-28T23:14:48.490Z
+code: 502
+responseTime: 634
+lastUpdated: 2023-10-29T23:15:03.534Z
 startTime: 2023-01-06T10:07:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
