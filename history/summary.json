@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/morphy.fr.to.ico",
     "slug": "website-morphy-fr-to",
     "status": "down",
-    "uptime": "43.59%",
+    "uptime": "43.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.31%",
-    "time": 935,
+    "uptimeYear": "8.03%",
+    "time": 938,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 724,
+    "timeYear": 734,
     "dailyMinutesDown": {
-      "2024-10-14": 75,
+      "2024-10-15": 74,
+      "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -366,13 +367,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 750,
+    "time": 753,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 662,
+    "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-10-14": 75,
+      "2024-10-15": 74,
+      "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -735,8 +737,7 @@
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
-      "2023-10-17": 1440,
-      "2023-10-16": 1440
+      "2023-10-17": 1440
     }
   },
   {
@@ -745,7 +746,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/project-morphy.fr.to.ico",
     "slug": "flarum-project-morphy-fr-to",
     "status": "down",
-    "uptime": "38.65%",
+    "uptime": "38.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -754,9 +755,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 543,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-10-14": 75,
+      "2024-10-15": 74,
+      "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -1119,8 +1121,7 @@
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
-      "2023-10-17": 1440,
-      "2023-10-16": 1440
+      "2023-10-17": 1440
     }
   }
 ]
