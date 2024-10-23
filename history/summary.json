@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/morphy.fr.to.ico",
     "slug": "website-morphy-fr-to",
     "status": "down",
-    "uptime": "43.05%",
+    "uptime": "42.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "6.12%",
-    "time": 952,
+    "uptimeYear": "5.84%",
+    "time": 953,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 755,
+    "timeYear": 762,
     "dailyMinutesDown": {
-      "2024-10-22": 74,
+      "2024-10-23": 72,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -378,9 +379,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 701,
+    "timeYear": 704,
     "dailyMinutesDown": {
-      "2024-10-22": 74,
+      "2024-10-23": 72,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -743,8 +745,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -753,18 +754,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/project-morphy.fr.to.ico",
     "slug": "flarum-project-morphy-fr-to",
     "status": "down",
-    "uptime": "38.18%",
+    "uptime": "38.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 891,
+    "time": 892,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 558,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2024-10-22": 74,
+      "2024-10-23": 72,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -1127,8 +1129,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   }
 ]
