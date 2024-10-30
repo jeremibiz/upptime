@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/morphy.fr.to.ico",
     "slug": "website-morphy-fr-to",
     "status": "down",
-    "uptime": "42.60%",
+    "uptime": "42.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.20%",
-    "time": 969,
+    "uptimeYear": "3.92%",
+    "time": 972,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 800,
+    "timeYear": 815,
     "dailyMinutesDown": {
-      "2024-10-29": 75,
+      "2024-10-30": 74,
+      "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
@@ -381,13 +382,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 770,
+    "time": 772,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 765,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2024-10-29": 75,
+      "2024-10-30": 74,
+      "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
@@ -750,8 +752,7 @@
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
-      "2023-11-01": 1440,
-      "2023-10-31": 1440
+      "2023-11-01": 1440
     }
   },
   {
@@ -760,18 +761,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/project-morphy.fr.to.ico",
     "slug": "flarum-project-morphy-fr-to",
     "status": "down",
-    "uptime": "37.78%",
+    "uptime": "37.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 883,
+    "time": 849,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 575,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-10-29": 75,
+      "2024-10-30": 74,
+      "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
@@ -1134,8 +1136,7 @@
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
-      "2023-11-01": 1440,
-      "2023-10-31": 1440
+      "2023-11-01": 1440
     }
   }
 ]
